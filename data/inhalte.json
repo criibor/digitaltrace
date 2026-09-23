@@ -1,0 +1,73 @@
+[
+  {
+    "id": "process",
+    "titel": "Process",
+    "typ": "moodboard",
+    "farbe": "#5b6ee1",
+    "kurztext": "Einblicke in die Arbeitsprozesse hinter Digital Trace.",
+    "text": "At the start was the question of how to translate an abstract, invisible phenomenon like the Data Double into something visual and acoustic.The point cloud emerged as the central design element: individual points in digital 3D space that condense into a growing, amorphous mass, not unlike how individual data traces combine into a profile. The technical execution took place in 3D, with a focus on the movement, density, and materiality of the point cloud.In parallel, a fitting sound was developed: rhythmic, layered with depth, metallic and experimental, with occasional softer tones woven in. Image and sound were tuned to each other so that together they create the cool, alien atmosphere the topic calls for.The process was shaped by repeated testing and refinement, until form, movement, and sound conveyed the intended feeling of intangibility and strangeness.",
+    "eintraege": [
+      { "id": "process-1", "titel": "Scene 1", "bild": "images/szene1_30249.jpg" },
+      { "id": "process-2", "titel": "Scene 1", "bild": "images/szene10073.jpg" },
+      { "id": "process-3", "titel": "Scene 1", "bild": "images/szene10222.jpg" },
+      { "id": "process-4", "titel": "Scene 2", "bild": "images/szene3_20143.jpg" },
+      { "id": "process-4", "titel": "Scene 3", "bild": "images/szene3_30116.jpg" },
+      { "id": "process-4", "titel": "Scene 3", "bild": "images/szene3_30236.jpg" },
+      { "id": "process-4", "titel": "Scene 3", "bild": "images/szene3_40040.jpg" },
+      { "id": "process-4", "titel": "Scene 3", "bild": "images/szene3_40188.jpg" },
+      { "id": "process-4", "titel": "Scene 4", "bild": "images/szene4.20044.jpg" },
+      { "id": "process-4", "titel": "Scene 4", "bild": "images/szene4.20087.jpg" },
+      { "id": "process-4", "titel": "Scene 4", "bild": "images/szene4.30243.jpg" },
+      { "id": "process-5", "titel": "Scene 2", "bild": "images/szene20029.jpg" }
+    ]
+  },
+  {
+    "id": "glossary",
+    "titel": "Glossary",
+    "typ": "liste",
+    "farbe": "#8e7cc3",
+    "kurztext": "Begriffe und Definitionen rund um das Projekt.",
+    "text": "An evolving glossary of core terms used in the context of Digital Trace.",
+    "eintraege": [
+      { "id": "glossary-1", "titel": "Digital Trace", "text": "Every click, purchase, or location you leave online. Example: The app records how long you look at a post.Ambient Data Collection Data collected in the background, without you doing anything.Example: A weather app tracks your location all day." },
+      { "id": "glossary-2", "titel": "Consent", "text": "Saying 'yes' to data collection, often without reallychoosing. Example: Clicking 'Accept All' just to read an article." },
+      { "id": "glossary-3", "titel": "Point Cloud", "text": "How this work shows the Data Double: many single points that grow into one large mass. Example: Every click is one point." },
+      { "id": "glossary-4", "titel": "Data Profile", "text": "The Data Double, used by companies and institutions to make decisions about you. Example: A rental application is rejected because of a low score." },
+      { "id": "glossary-5", "titel": "Algorithmic Profiling", "text": "Sorting people into groups automatically, based on their data. Example: You and a friend see different prices for the same product." },
+      { "id": "glossary-6", "titel": "Black Box", "text": "A system where you see the input and the result, but not what happens in between. Example: Your loan is rejected and nobody can explain why." },
+      { "id": "glossary-7", "titel": "Surveillance Capitalism", "text": "A business model that uses human behavior as raw material for profit (term by Shoshana Zuboff). Example: The app is free because your data is the product." }
+      
+    
+    ]
+  },
+  {
+    "id": "concept",
+    "titel": "Concept",
+    "typ": "text",
+    "farbe": "#4a5a8f",
+    "kurztext": "Das übergeordnete Konzept des Projekts.",
+    "text": "Every click, search and like leaves a trace. Together, these traces form a data double: a digital version of you that companies and algorithms know well, but that you never get to see. The video makes this double something you can feel. Cool, metallic point clouds grow slowly in an empty digital space, supported by sound. The website adds a second layer with background, process and a glossary of key terms. The idea is to first feel the topic, then understand it.The final piece is planned for an exhibition."
+  },
+  {
+    "id": "final-piece",
+    "titel": "Final Piece",
+    "typ": "video",
+    "farbe": "#7057c9",
+    "kurztext": "",
+    "text": "",
+    "video": "video/digitaltrace.mp4",
+    "embedUrl": ""
+  },
+  {
+    "id": "future-exhibition",
+    "titel": "Future Exhibition",
+    "typ": "moodboard",
+    "farbe": "#9c6fd6",
+    "kurztext": "Ausblick auf die geplante Ausstellung.",
+    "text": "Vorschau und Planungsnotizen zur kommenden Ausstellung, inklusive Raumkonzept und Präsentationsideen. Platzhaltertext, wird später ersetzt.",
+    "eintraege": [
+      { "id": "future-1", "titel": "Exhibition 1", "bild": "images/exhibition_1.jpg" },
+      { "id": "future-2", "titel": "Exhibition 2", "bild": "images/exhibition_2.jpg" }
+    ]
+  }
+]

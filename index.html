@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Digital Trace</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="title-overlay">
+  <h1>Digital Trace</h1>
+  <p>Welcome to the project. Zoom in, zoom out, drag to rotate and explore. Have fun!</p>
+</div>
+
+<a href="about.html" class="about-link">About</a>
+<button id="toc-toggle" class="toc-toggle">Categories</button>
+<button id="theme-toggle" class="theme-toggle" aria-label="Dark/Light Mode umschalten">◐</button>
+
+<aside id="toc-panel" class="toc-panel"></aside>
+
+<div id="sphere-container"></div>
+
+<footer class="site-footer">© Cristina Bortolas 2026</footer>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+  }
+}
+</script>
+<script>
+  window.__INHALTE__ = null;
+</script>
+<script type="module" src="js/sphere.js"></script>
+</body>
+</html>
