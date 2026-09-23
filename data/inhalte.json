@@ -63,8 +63,8 @@
     "titel": "Future Exhibition",
     "typ": "moodboard",
     "farbe": "#9c6fd6",
-    "kurztext": "Ausblick auf die geplante Ausstellung.",
-    "text": "Vorschau und Planungsnotizen zur kommenden Ausstellung, inklusive Raumkonzept und Präsentationsideen. Platzhaltertext, wird später ersetzt.",
+    "kurztext": "",
+    "text": "",
     "eintraege": [
       { "id": "future-1", "titel": "Exhibition 1", "bild": "images/exhibition_1.jpg" },
       { "id": "future-2", "titel": "Exhibition 2", "bild": "images/exhibition_2.jpg" }
